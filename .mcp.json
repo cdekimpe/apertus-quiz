@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "brandfolio-apertus": {
+      "type": "sse",
+      "url": "https://webapp-git-dev-brandfolio-webapps-projects.vercel.app/api/mcp-server/d0893327-724b-40de-95cd-c6ea38440d4e/sse"
+    }
+  }
+}
