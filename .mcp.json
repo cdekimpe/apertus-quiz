@@ -2,7 +2,7 @@
   "mcpServers": {
     "brandfolio-apertus": {
       "type": "sse",
-      "url": "https://webapp-git-dev-brandfolio-webapps-projects.vercel.app/api/mcp-server/d0893327-724b-40de-95cd-c6ea38440d4e/sse"
+      "url": "https://webapp-git-dev-brandfolio-webapps-projects.vercel.app/api/mcp-server/d0893327-724b-40de-95cd-c6ea38440d4e/sse?x-vercel-protection-bypass=9GEksFUDayb38Zhj3nDPtDmAXtz9EQw2&x-vercel-set-bypass-cookie=samesitenone"
     }
   }
 }
